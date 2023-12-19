@@ -2,15 +2,15 @@
     "headerLinks" : [
     {
       "label": "Home",
-      "route": "/"
+      "src": "/"
     },
     {
       "label": "Create Event",
-      "route": "/events/create"
+      "src": "/events/create"
     },
     {
       "label": "Profile",
-      "route": "/profile"
+      "src": "/profile"
     }
   ]
 }
